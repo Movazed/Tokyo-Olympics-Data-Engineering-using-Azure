@@ -12,19 +12,22 @@ Azure Analysis Services
 
 Additional technologies like Spark, Delta Lake and SQL may be used for data processing and analytics.
 
+
 Repository structure
 
+
 .
-├── analysis            # Notebooks, scripts for analysis 
-├── data                # Tokyo Olympics datasets
-│   ├── raw             # Raw, immutable data
-│   └── processed       # Cleaned, transformed data
-├── docs                # Project documentation
-├── pipelines           # Data pipeline definitions     
-├── sql                 # SQL create scripts
-├── src                 # Custom source code
-├── .gitignore          # Files to ignore from tracking
-└── README.md           # This file
+├── analysis # Notebooks, scripts for analysis
+├── data # Tokyo Olympics datasets
+│ ├── raw # Raw, immutable data
+│ └── processed # Cleaned, transformed data
+├── docs # Project documentation
+├── pipelines # Data pipeline definitions
+├── sql # SQL create scripts
+├── src # Custom source code
+├── .gitignore # Files to ignore from tracking
+└── README.md # This file
+
 
 Getting Started
 
