@@ -1,0 +1,2 @@
+﻿RoleAssignmentId,Scope,DisplayName,SignInName,RoleDefinitionName,RoleDefinitionId,ObjectId,ObjectType,RoleAssignmentDescription,ConditionVersion,Condition
+7e93d31d-052a-4035-a015-667a1e235d18,/subscriptions/d78dfcfd-bb12-46d0-bdce-f52c7b12af92/resourceGroups/tokyo-olympic/providers/Microsoft.Storage/storageAccounts/tokyoolympicdatamovazed,app01,,Storage Blob Data Contributor,/subscriptions/d78dfcfd-bb12-46d0-bdce-f52c7b12af92/providers/Microsoft.Authorization/roleDefinitions/ba92f5b4-2d11-453d-a403-e96b0029c9fe,367c3c6a-66d5-4966-b9a1-3b172b237b0d,ServicePrincipal,,,
